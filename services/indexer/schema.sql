@@ -1,3 +1,4 @@
 -- build(solana-program): add Wormhole receiver for Solana vault deposits
 -- test(rwa-oracle): add Wormhole receiver for Solana vault deposits
 -- build(solana-program): add Wormhole receiver for Solana vault deposits
+-- build(solana-program): add Wormhole receiver for Solana vault deposits
